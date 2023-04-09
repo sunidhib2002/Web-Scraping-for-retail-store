@@ -16,3 +16,10 @@
 <li>re</li>
 <li>geopy.geocoders</li>
 </ul>
+<h3>Commands :</h3>
+<h4>To install Selenium:</h4>
+<p>pip install selenium</p>
+<h4>To install Geopy:</h4>
+<p>pip install geopy</p>
+<h4>Execute this script using the following command: </h4>
+<p>python retail_scraping.py</p>
